@@ -1,0 +1,12 @@
+.Lable {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.Input {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 20px;
+  margin: 20px 0px;
+}
